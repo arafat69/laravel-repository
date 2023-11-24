@@ -3,7 +3,7 @@ Simple but powerfull laravel repository pattern
 
 ---
 
-##Installation
+## Installation
 
 ```sh
 composer require arafat/laravel-repository
@@ -20,7 +20,7 @@ or
 php artisan make:repository UserRepository --model=User
 ```
 
-##How to create function in repository
+## How to create function in repository
 
 ```php
 //Create
@@ -56,7 +56,7 @@ public static function updateByRequest($request, User $user): User
 ```
 ## Use from controller
 
-####Import first the Repository
+#### Import first the Repository
 
 ```php
 //example UserRepository
@@ -78,9 +78,9 @@ UserRepository::first();
 // delete recode
 UserRepository::delete($userID);
 ```
-####Publish stubs folder
+#### Publish stubs folder
 ```sh
 php artisan vendor:publish arafat/laravel-repository
 ```
-##Contribution
+## Contribution
 You're open to create any Pull request.
