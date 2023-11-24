@@ -1,0 +1,27 @@
+{
+    "name": "arafat/laravel-repository",
+    "description": "simple laravel repository pattern",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arafat\\LaravelRepository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arafat69",
+            "email": "arafataliar69@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Arafat\\LaravelRepository\\RepositoryServiceProvider"
+            ],
+            "aliases": {
+                "Repository": "Arafat\\LaravelRepository\\RepositoryFacade"
+            }
+        }
+    }
+}
