@@ -6,7 +6,7 @@ Simple but powerfull laravel repository pattern
 ## Installation
 
 ```sh
-composer require arafat/laravel-repository
+composer require arafat69/laravel-repository
 ```
 
 After installing the package you will see a file **repository.php** is created inside **repositories** folder
@@ -80,7 +80,7 @@ UserRepository::delete($userID);
 ```
 #### Publish stubs folder
 ```sh
-php artisan vendor:publish arafat/laravel-repository
+php artisan vendor:publish arafat69/laravel-repository
 ```
 ## Contribution
 You're open to create any Pull request.

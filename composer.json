@@ -1,6 +1,13 @@
 {
-    "name": "arafat/laravel-repository",
+    "name": "arafat69/laravel-repository",
     "description": "simple laravel repository pattern",
+    "keywords": [
+        "repository",
+        "laravel",
+        "arafat",
+        "laravel-repository"
+    ],
+    "homepage": "https://github.com/arafat69/laravel-repository",
     "license": "MIT",
     "autoload": {
         "psr-4": {
