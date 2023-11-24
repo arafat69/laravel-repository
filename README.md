@@ -80,7 +80,7 @@ UserRepository::delete($userID);
 ```
 #### Publish stubs folder
 ```sh
-php artisan vendor:publish arafat69/laravel-repository
+php artisan vendor:publish --tag=stubs
 ```
 ## Contribution
 You're open to create any Pull request.
