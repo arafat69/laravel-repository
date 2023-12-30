@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 <a href="https://packagist.org/packages/arafat69/laravel-repository">
 <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/arafat69/laravel-repository">
 </a>
