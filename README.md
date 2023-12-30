@@ -1,3 +1,15 @@
+<p align="center">
+<a href="https://packagist.org/packages/arafat69/laravel-repository">
+<img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/arafat69/laravel-repository">
+</a>
+<a href="https://packagist.org/packages/arafat69/laravel-repository">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/arafat69/laravel-repository">
+</a>
+<a href="https://packagist.org/packages/arafat69/laravel-repository"><img src="https://img.shields.io/packagist/dt/arafat69/laravel-repository" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/arafat69/laravel-repository"><img src="https://img.shields.io/packagist/v/arafat69/laravel-repository" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/arafat69/laravel-repository"><img src="https://img.shields.io/packagist/l/arafat69/laravel-repository" alt="License"></a>
+</p>
+
 # laravel-repository
 Simple but powerfull laravel repository pattern
 
