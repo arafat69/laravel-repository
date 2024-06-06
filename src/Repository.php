@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Repositories;
+namespace Arafat\LaravelRepository;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Collection;

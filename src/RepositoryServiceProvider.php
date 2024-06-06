@@ -22,7 +22,7 @@ class RepositoryServiceProvider extends ServiceProvider
     public function boot(): void
     {
         $this->registerPublishables();
-        $this->checkDirectoryAndRepository();
+        // $this->checkDirectoryAndRepository();
     }
 
     protected function checkDirectoryAndRepository()

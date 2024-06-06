@@ -2,6 +2,7 @@
 
 namespace App\Repositories;
 
+use Arafat\LaravelRepository\Repository
 use App\Models\{{ modelName }};
 use Illuminate\Http\Request;
 
